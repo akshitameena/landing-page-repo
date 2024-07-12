@@ -2,6 +2,6 @@
 
 ## It is the repo landing page for dentist clinic 
 
-# Tecchnologies used
+# Technologies used
 - HTML
 - CSS
